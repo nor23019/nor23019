@@ -1,16 +1,20 @@
-## Hi there 👋
+# Joseph Alejandro Norales Wills
 
-<!--
-**nor23019/nor23019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, GitHub!
 
-Here are some ideas to get you started:
+I'm Joseph Norales, a student at Brigham Young University-Idaho interested in Computer Science. Welcome to my profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- I'm currently learning React.js
+- My goals are to provide individuals with software that will help them make their life easier and more enjoyable.
+
+## Technologies and Tools
+
+- Proficient in: CSS, HTML, Python, mySQL, C#, Java, Erlang, Javascript, React.js.
+
+## Let's Connect!
+
+- Here is my (https://www.linkedin.com/in/joseph-norales-30837b30a/)
+
+Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
